@@ -1,7 +1,7 @@
 # Acc-Streaming-V13
 All Copyright By POLAT BOT
 
-<img src = "https://cdn.discordapp.com/attachments/837245653276950538/1007588852476682263/image3.jpeg"></div>
+<img src = "https://cdn.discordapp.com/attachments/1075882484358717492/1082704114313613432/image.png"></div>
 
 Best Account Streaming Project V13  
 Dont Forget Give 🌟 Project And Thank You All
@@ -17,6 +17,6 @@ Just Open ``config.json`` file and types tells you all the information how to us
 # Link My Discord Servers
 
 
-[Devil Staff](https://discord.gg/CMj93ASrJx)
+[END WEB STAFF](https://discord.gg/R6QRbwPR6Q)
 
-<a href="https://cdn.discordapp.com/attachments/837245653276950538/1007588852476682263/image3.jpeg"></a>
+<a href="https://cdn.discordapp.com/attachments/1075882484358717492/1082704114313613432/image.png"></a>
